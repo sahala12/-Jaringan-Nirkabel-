@@ -29,6 +29,8 @@
       - Ada juga sistem sensor infrared sebagai komunikasi yang terhubung antara dua perangkat remote pada alat eletronik seperti TV, AC, DVD, mobil remot, DRONE, CCTV dan lain 
       sebagainya
       
+      
+     
        [Image](Cara_Mengontrol_Nyala_Lampu_LED_Dengan_IR_Remote_Menggunakan_Arduino_by_Konekthing.jpg)
                     [Image](masihol.jpg)
              
