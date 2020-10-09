@@ -10,11 +10,14 @@
    Frekuensi inframerah berkisar dari 3 gigahertz sampai 400 terahertz, dan panjang gelombang rentang 1000 mikrometer sampai 760 nanometer.
    jenis infared berdasarkan jarak cahayanya , yaitu;
    - infrared jarak jauh
+      
       Jenis infrared ketiga adalah infrared jarak jauh. Jenis infrared ini memiliki panjang gelombang 10 µm sampai 100 µm. Jenis alat yang memanfaatkan infrared jarak jauh             adalah beberapa alat kesehatan. 
    - infrared jarak menengah
+       
        Jenis kedua adalah infrared jarak menengah. Jenis infrared ini memiliki panjang gelombang lebih dari 1.5 µm. Kisaran angka panjang gelombangnya adalah 1.5 µm sampai
        10 µm. Contoh alat yang memanfaatkan infrared jarak menengah adalah sensor alarm.
    - infrared jarak jauh
+     
       Jenis pertama adalah infrared jarak dekat. Disebut jarak dekat karena infrared ini memiliki panjang gelombang 0.75 µm sampai 1.5 µm. Contoh alat yang memanfaatkan infrared
       jarak dekat adalah Nightscoop yakni alat untuk mencitrakan pandangan pada malam hari.
    
