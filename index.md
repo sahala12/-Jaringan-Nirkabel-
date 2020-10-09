@@ -53,7 +53,38 @@
    
    Dengan teknologi EDR (Enhanced Data Rate) yang dimilikinya, Bluetooh versi 2.0 memiliki transfer data yang lebih cepat. Walaupun teknologi EDR memiliki kecepatan 3 Mbit per 
    detik, namun transfer data maksimum pada Bluetooth versi ini adalah 2.1 Mbit per detik. Bluetooth versi 2.0 +EDR hadir pada tahun 2004.
+   - Bluetooth 2.1 + EDR
    
+   Tiga tahun berselang, versi Bluetooth yang lebih tinggi hadir, yaitu versi 2.1 + EDR. Teknologi utama pada Bluetooth versi ini adalah SSP atau Secure Simple Pairing. Dengan
+   SPP pengalaman menggunakan Bluetooth jadi lebih baik, terutama dalam hal pairing dan keamanan.Teknologi lain yang hadir pada Bluetooth versi ini adalah EIR atau Extended 
+   Inquiry Response. Teknologi ini membantu pengguna mengetahui informasi perangkat yang akan dihubungkan sebelum koneksi dimulai. Selain itu, EIR juga membantu perangkat
+   mengurangi konsumsi daya pada low-power mode.
+   - Bluetooth 3.0 + HS
+   
+   Bluetooth versi 3.0 + HS hadir dua tahun pasca perilisan versi 2.1 + EDR. HS pada Bluetooth versi ini adalah singkatan dari High Speed di mana teknologi yang digunakan adalah
+   link 802.11. Selain itu, Bluetooth versi 3.1 + HS memiliki fitur baru yang disebut AMP atau Alternative MAC/PHY.
+   - Bluetooth 4.0 + LE
+   
+   Selanjutnya ada Bluetooth versi 4.0 + LE atau dikenal dengan Bluetooth Low Energy. Keunggulan utama dari Bluetooth versi ini adalah konsumsi energinya yang rendah. Karena
+   itu, perangkat yang menggunakan Bluetooth versi 4.0 + LE membantu baterai atau listrik jadi lebih hemat.Bluetooth versi ini juga dapat menjangkau area yang luas hingga 100
+   meter. Selain itu, pengguna juga dapat menikmati kecepatan transfer hingga 1 Mbps dan kemanan yang lebih terkontrol dibanding dengan Bluetooth versi sebelumnya.
+   - Bluetooth 4.1
+   
+   Bluetooth versi 4.1 ini dapat mengelola daya lebih baik (lebih hemat daya dibanding versi sebelumnya). Perangkat yang mengadopsi Bluetooth versi dapat secara otomatis
+   menghidupkan dan mematikan koneksi Bluetooth sesuai dengan power plan.Jenis-jenis Bluetooth berdasarkan versi sebelumnya seringkali terganggu dengan teknologi nirkabel
+   lainnya seperti oleh koneksi 4G LTE. Namun pada pengembangan Bluetooth yang terbaru telah dibuat untuk bisa mengatasi masalah tersebut. Bluetooth versi 4.1 ini diperkenalkan
+   pada 4 Desember 2013.
+   - Bluetooth 4.2
+   
+   Hampir setahun setelah perilisan Bluetooth versi 4.1, Bluetooth versi 4.2 juga diluncurkan ke publik. Beberapa peningkatan yang dikembangkan pada Bluetooth versi ini adalah 
+   pada kecepatan dan keamanan yang lebih tinggi. Bahkan disebut-sebut kecepatan unduh Bluetooth versi 4.2 meningkat 2,6 kali dibanding Bluetooth versi sebelumnya.
+   -  Bluetooth 5.0
+   
+   Ini adalah versi Bluetooth paling baru yang dikenalkan pada 16 Juni 2016. Bluetooth 5.0 dirancang secara khusus untuk menyediakan komunikasi yang aman tanpa banyak gangguan.
+   Fitur-fitur yang terdapat pada Bluetooth versi terbaru ini juga difokuskan pada teknologi IoT atau Internet of Things yang sedang berkembang.Bluetooth versi 5.0 juga memiliki
+   peningkatan yang siginifikan dibanding Bluetooth versi lama, seperti pada jangkauan yang lebih luas, transfer data yang lebih cepat, serta mampu membawa ukuran data yang
+   lebih besar. Dan untuk kebutuhan marketing, Bluetooth versi 5.0 ini cukup disebut dengan Bluetooth 5 (tidak 5.0 seperti pada Bluetooth versi 4.0).
+
    
    
          
