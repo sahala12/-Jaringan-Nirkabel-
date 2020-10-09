@@ -7,7 +7,9 @@
 ## 2.Infrared
    Infared atau sensor merah adalah bagian-bagian elektronika yang terbuat dari bahan semikonduktor untuk memancarkan cahaya monokromatikyang tidak koheran ketika diberi
    tegangan maju, dengan kata lain infra merah merupakan warna dari cahaya tampak dengan gelombang terpanjang, yaitu sekitar 700 nm sampai 1 mm.
-   Frekuensi inframerah berkisar dari 3 gigahertz sampai 400 terahertz, dan panjang gelombang rentang 1000 mikrometer sampai 760 nanometer.
+   Frekuensi inframerah berkisar dari 3 gigahertz sampai 400 terahertz, dan panjang gelombang rentang 1000 mikrometer sampai 760 nanometer.Monitor infra merah atau sensor
+   inframerah jenis TSOP (TEMIC Semiconductors Optoelectronics Photomodules) adalah penerima inframerah yang telah dilengkapi filter frekuensi 30-56 kHz, sehingga penerima
+   langsung mengubah frekuensi tersebut menjadi logika 0 dan 1.
    jenis infared berdasarkan jarak cahayanya , yaitu;
    - infrared jarak jauh
       
@@ -20,6 +22,13 @@
      
       Jenis pertama adalah infrared jarak dekat. Disebut jarak dekat karena infrared ini memiliki panjang gelombang 0.75 µm sampai 1.5 µm. Contoh alat yang memanfaatkan infrared
       jarak dekat adalah Nightscoop yakni alat untuk mencitrakan pandangan pada malam hari.
+      
+      contoh pada ifared yaitu;
+      - Sebagai salah satu standardisasi komunikasi taanpa kabel ketika mengirim berkas pada telepon genggam dan laptop yang menggunakan aplikasi Infrared.
+      - Lampu Infrared biasanya digunakan untuk proses pemanasan dibidang industri
+      -
+      
+     
    
    
    
