@@ -32,7 +32,8 @@
       [Image](Cara_Mengontrol_Nyala_Lampu_LED_Dengan_IR_Remote_Menggunakan_Arduino_by_Konekthing.jpg)
       [Image](masihol.jpg)
   ## 3. Bluetooth 
-   Bluetooth adalah teknologi komunikasi wireless yang memanfaafkan frekuensi Rsdio 
+   Bluetooth adalah teknologi komunikasi wireless yang memanfaafkan frekuensi Radio ISM 2,4 GHZ untuk menghubungkan perangkat gengam secara terpisah (hanpone, PDA, computer,
+   printer dan laptop ,dengan jangkuan yang relatif pendek.
    
          
            
