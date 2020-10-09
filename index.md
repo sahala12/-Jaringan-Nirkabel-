@@ -1,6 +1,7 @@
-# 1. Sinyal RF
-You can use the [editor on GitHub](https://github.com/sahala12/-Jaringan-Nirkabel-/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
+   # SINYAL RF, INFARED ,BLUETOOTH,WIFI Dan ENCODING
+ 
+## 1. Sinyal RF
+  Sinyal RF(Radio Frekuensi) adalah bagian-bagian yang mampu mendeteksi sinyal gelombang elektromagnetik digunakan oleh sistem 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
