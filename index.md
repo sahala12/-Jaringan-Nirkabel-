@@ -1,10 +1,10 @@
-   # SINYAL RF, INFARED, BLUETOOTH, WIFI Dan ENCODING
+   ## SINYAL RF, INFARED, BLUETOOTH, WIFI Dan ENCODING
  
-## 1. Sinyal RF
+### 1. Sinyal RF
   Sinyal RF(Radio Frekuensi) adalah bagian-bagian yang mampu mendeteksi sinyal gelombang elektromagnetik digunakan oleh sistem komunikasi untuk mengirim informasi lewat
   udara dari satu titik ke titik lainnya yang membanyak diantara antena pemancar pengirim dan penerima.
 
-## 2.Infrared
+### 2.Infrared
    Infared atau sensor merah adalah bagian-bagian elektronika yang terbuat dari bahan semikonduktor untuk memancarkan cahaya monokromatikyang tidak koheran ketika diberi
    tegangan maju, dengan kata lain infra merah merupakan warna dari cahaya tampak dengan gelombang terpanjang, yaitu sekitar 700 nm sampai 1 mm.
    Frekuensi inframerah berkisar dari 3 gigahertz sampai 400 terahertz, dan panjang gelombang rentang 1000 mikrometer sampai 760 nanometer.Monitor infra merah atau sensor
@@ -31,7 +31,7 @@
       
         [Image](Cara_Mengontrol_Nyala_Lampu_LED_Dengan_IR_Remote_Menggunakan_Arduino_by_Konekthing.jpg)
                     [Image](masihol.jpg)
-  ## 3. Bluetooth 
+### 3. Bluetooth 
    Bluetooth adalah teknologi komunikasi wireless yang memanfaafkan frekuensi Radio ISM 2,4 GHZ untuk menghubungkan perangkat gengam secara terpisah (hanpone, PDA, computer,
    printer dan laptop ,dengan jangkuan yang relatif pendek atau tanpa kabel.
    Jaringan bluetooth mengirimkan data melalui gelombang radio berdaya rendah. Pada Frekuensi 2,45 gigahertz (tepatnya antara 2,402 dan 2.480 GHZ).
@@ -65,7 +65,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](CCTV.htm)
+[Link](url) and ![Image](masihol.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
