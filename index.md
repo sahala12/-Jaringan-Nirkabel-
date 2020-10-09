@@ -26,8 +26,12 @@
       contoh pada ifared yaitu;
       - Sebagai salah satu standardisasi komunikasi taanpa kabel ketika mengirim berkas pada telepon genggam dan laptop yang menggunakan aplikasi Infrared.
       - Lampu Infrared biasanya digunakan untuk proses pemanasan dibidang industri 
-      - Ada juga sistem sensor infrared sebagai komunikasi yang terhubung antara dua perangkat remote pada alat eletronik seperti TV, AC, DVD, mobil remot, DRONE, dan lain 
+      - Ada juga sistem sensor infrared sebagai komunikasi yang terhubung antara dua perangkat remote pada alat eletronik seperti TV, AC, DVD, mobil remot, DRONE, CCTV dan lain 
       sebagainya
+      
+      
+      
+      
       
      
    
