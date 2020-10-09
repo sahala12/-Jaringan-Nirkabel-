@@ -89,8 +89,8 @@
    - Mengirim file dari sebuah perangkat keperangkat lain.
    - Mengatur perangkat lain seperti speaker/ heandset/ hearphone yang tersambung pada bluetooth.
    
-   [Link](url) and ![Image](images bluetooth.jpg)
-   [Image](images bluetooth2.jpg)
+      [Link](url) and ![Image](images bluetooth.jpg)
+          [Image](images bluetooth 2.jpg)
    
 ### 4.Wifi (wireles findelity)
    Wifi (wireles findelity) adalah sekumpulan sebuah teknologi yang  memanfaatkan peralatan electronik untuk bertukar data secara nirkabel(menggunakan gelombang radio) melalui
