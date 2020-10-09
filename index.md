@@ -93,8 +93,9 @@
    
    
    
-      [Image](images bluetooth.jpg)
-          [Image](images bluetooth 2.jpg)
+[Image](images bluetooth.jpg)
+  
+[Image](images bluetooth 2.jpg)
    
 ### 4.Wifi (wireles findelity)
    Wifi (wireles findelity) adalah sekumpulan sebuah teknologi yang  memanfaatkan peralatan electronik untuk bertukar data secara nirkabel(menggunakan gelombang radio) melalui
