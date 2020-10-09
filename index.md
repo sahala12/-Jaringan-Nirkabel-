@@ -1,11 +1,13 @@
-   # SINYAL RF, INFARED ,BLUETOOTH,WIFI Dan ENCODING
+   # SINYAL RF, INFARED, BLUETOOTH, WIFI Dan ENCODING
  
 ## 1. Sinyal RF
-  Sinyal RF(Radio Frekuensi) adalah bagian-bagian yang mampu mendeteksi sinyal gelombang elektromagnetik digunakan oleh sistem 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+  Sinyal RF(Radio Frekuensi) adalah bagian-bagian yang mampu mendeteksi sinyal gelombang elektromagnetik digunakan oleh sistem komunikasi untuk mengirim informasi lewat
+  udara dari satu titik ke titik lainnya yang membanyak diantara antena pemancar pengirim dan penerima.
 
+## 2.Infared
+   Infared atau sensor merah adalah bagian-bagian elektronika yang terbuat dari bahan semikonduktor untuk memancarkan cahaya monokromatikyang tidak koheran ketika diberi
+   tegangan maju, dengan kata lain infra merah merupakan warna dari cahaya tampak dengan gelombang terpanjang, yaitu sekitar 700 nm sampai 1 mm
 ### Markdown
-
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
