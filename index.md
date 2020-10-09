@@ -29,8 +29,8 @@
       - Ada juga sistem sensor infrared sebagai komunikasi yang terhubung antara dua perangkat remote pada alat eletronik seperti TV, AC, DVD, mobil remot, DRONE, CCTV dan lain 
       sebagainya
       
-        [Image](Cara_Mengontrol_Nyala_Lampu_LED_Dengan_IR_Remote_Menggunakan_Arduino_by_Konekthing.jpg)
-                    [Image](masihol.jpg)
+       [Image] (Cara_Mengontrol_Nyala_Lampu_LED_Dengan_IR_Remote_Menggunakan_Arduino_by_Konekthing.jpg)
+                    [Image] (masihol.jpg)
 ### 3. Bluetooth 
    Bluetooth adalah teknologi komunikasi wireless yang memanfaafkan frekuensi Radio ISM 2,4 GHZ untuk menghubungkan perangkat gengam secara terpisah (hanpone, PDA, computer,
    printer dan laptop ,dengan jangkuan yang relatif pendek atau tanpa kabel.
@@ -65,7 +65,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image] (IMG-20200109-WA0006.jpg)
+[Link](url) and ![Image] ()
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
