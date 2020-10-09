@@ -84,6 +84,10 @@
    Fitur-fitur yang terdapat pada Bluetooth versi terbaru ini juga difokuskan pada teknologi IoT atau Internet of Things yang sedang berkembang.Bluetooth versi 5.0 juga memiliki
    peningkatan yang siginifikan dibanding Bluetooth versi lama, seperti pada jangkauan yang lebih luas, transfer data yang lebih cepat, serta mampu membawa ukuran data yang
    lebih besar. Dan untuk kebutuhan marketing, Bluetooth versi 5.0 ini cukup disebut dengan Bluetooth 5 (tidak 5.0 seperti pada Bluetooth versi 4.0).
+   
+  Contoh pada Bluetooth;
+   - Mengirim file dari sebuah perangkat keperangkat lain.
+   - Mengatur perangkat lain seperti speaker/ heandset/ hearphone yang tersambung pada bluetooth. 
 
    
    
