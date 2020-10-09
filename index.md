@@ -8,8 +8,8 @@
    Infared atau sensor merah adalah bagian-bagian elektronika yang terbuat dari bahan semikonduktor untuk memancarkan cahaya monokromatikyang tidak koheran ketika diberi
    tegangan maju, dengan kata lain infra merah merupakan warna dari cahaya tampak dengan gelombang terpanjang, yaitu sekitar 700 nm sampai 1 mm.
    Frekuensi inframerah berkisar dari 3 gigahertz sampai 400 terahertz, dan panjang gelombang rentang 1000 mikrometer sampai 760 nanometer.
-   ### jenis jenis infared
-   - Ifare
+   jenis infared berdasarkan jarak cahayanya , yaitu;
+   - infrared jarak jauh
 ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
