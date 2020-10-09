@@ -39,9 +39,20 @@
    
    Jenis-Jenis Bluetooth Berdasarkan Versinya;
    - Bluetooth 1.0 dan 1.0B
-   Versi awal dari teknologi Bluetooth ini memiliki perkembangan yang kurang baik. Banyaknya permasalahan yang dimiliki Bluetooth versi ini menyebabkan pabrikan kesulitan
+  
+  Versi awal dari teknologi Bluetooth ini memiliki perkembangan yang kurang baik. Banyaknya permasalahan yang dimiliki Bluetooth versi ini menyebabkan pabrikan kesulitan
    membuat teknologi tersebut beroperasi di produk-produk mereka.
+   - Bluetooth 1.1
+    
+   Versi ini muncul dengan perbaikan dari versi Bluetooth sebelumnya. Selain itu, Bluetooth 1.1 juga telah memiliki standar IEEE 802.15.1-2002.
+   - Bluetooth 1.2
    
+   Dibanding tiga versi Bluetooth sebelumnya, Bluetooth 1.2 tentu saja memiliki banyak keunggulan. Pada prakteknya Bluetooth versi ini memiliki kecepatan transmisi yang lebih
+   tinggi, yaitu hingga 721 Kbit per detik. Versi ini juga memungkinkan penggunanya untuk menemukan koneksi Bluetooth lain lebih cepat.
+   - Bluetooth 2.0 + EDR
+   
+   Dengan teknologi EDR (Enhanced Data Rate) yang dimilikinya, Bluetooh versi 2.0 memiliki transfer data yang lebih cepat. Walaupun teknologi EDR memiliki kecepatan 3 Mbit per 
+   detik, namun transfer data maksimum pada Bluetooth versi ini adalah 2.1 Mbit per detik. Bluetooth versi 2.0 +EDR hadir pada tahun 2004.
    
    
    
