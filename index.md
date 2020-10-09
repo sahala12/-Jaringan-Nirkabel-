@@ -29,7 +29,7 @@
       - Ada juga sistem sensor infrared sebagai komunikasi yang terhubung antara dua perangkat remote pada alat eletronik seperti TV, AC, DVD, mobil remot, DRONE, CCTV dan lain 
       sebagainya
       
-      [Link](url) and ![Image](CCTV.htm)
+      [Image](CCTV.htm)
       
       
       
