@@ -91,6 +91,8 @@
    - Mengirim file dari sebuah perangkat keperangkat lain.
    - Mengatur perangkat lain seperti speaker/ heandset/ hearphone yang tersambung pada bluetooth.
    
+   
+   
       [Link](url) and ![Image](images bluetooth.jpg)
           [Image](images bluetooth 2.jpg)
    
@@ -134,7 +136,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image] ()
+[Link](url) and ![Image] (masihol.jpg)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
