@@ -93,7 +93,7 @@
    
    
    
-[Image](images bluetooth.jpg)
+[Image](images bluetooth 2.jpg)
   
 [Image](images bluetooth 2.jpg)
    
