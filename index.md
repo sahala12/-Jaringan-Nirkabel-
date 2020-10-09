@@ -93,7 +93,7 @@
    
    
    
-      [Link](url) and ![Image](images bluetooth.jpg)
+      [Image](images bluetooth.jpg)
           [Image](images bluetooth 2.jpg)
    
 ### 4.Wifi (wireles findelity)
