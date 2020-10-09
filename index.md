@@ -38,6 +38,7 @@
    Jaringan bluetooth mengirimkan data melalui gelombang radio berdaya rendah. Pada Frekuensi 2,45 gigahertz (tepatnya antara 2,402 dan 2.480 GHZ).
    
    
+   
          
            
      
