@@ -25,17 +25,17 @@
       
       contoh pada ifared yaitu;
       - Sebagai salah satu standardisasi komunikasi taanpa kabel ketika mengirim berkas pada telepon genggam dan laptop yang menggunakan aplikasi Infrared.
-      - Lampu Infrared biasanya digunakan untuk proses pemanasan dibidang industri
-      -
+      - Lampu Infrared biasanya digunakan untuk proses pemanasan dibidang industri 
+      - Ada juga sistem sensor infrared sebagai komunikasi yang terhubung antara dua perangkat remote pada alat eletronik seperti TV, AC, DVD, mobil remot, DRONE, dan lain 
+      sebagainya
       
      
    
    
-   
-   
+      
    
 ### Markdown
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your iting. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
