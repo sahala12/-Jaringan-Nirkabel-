@@ -37,6 +37,11 @@
    printer dan laptop ,dengan jangkuan yang relatif pendek atau tanpa kabel.
    Jaringan bluetooth mengirimkan data melalui gelombang radio berdaya rendah. Pada Frekuensi 2,45 gigahertz (tepatnya antara 2,402 dan 2.480 GHZ).
    
+   Jenis-Jenis Bluetooth Berdasarkan Versinya;
+   - Bluetooth 1.0 dan 1.0B
+   Versi awal dari teknologi Bluetooth ini memiliki perkembangan yang kurang baik. Banyaknya permasalahan yang dimiliki Bluetooth versi ini menyebabkan pabrikan kesulitan
+   membuat teknologi tersebut beroperasi di produk-produk mereka.
+   
    
    
    
