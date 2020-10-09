@@ -1,4 +1,4 @@
-   ## SINYAL RF, INFARED, BLUETOOTH, WIFI Dan ENCODING
+   # SINYAL RF, INFARED, BLUETOOTH, WIFI Dan ENCODING
  
 ### 1. Sinyal RF
   Sinyal RF(Radio Frekuensi) adalah bagian-bagian yang mampu mendeteksi sinyal gelombang elektromagnetik digunakan oleh sistem komunikasi untuk mengirim informasi lewat
@@ -31,6 +31,7 @@
       
        [Image](Cara_Mengontrol_Nyala_Lampu_LED_Dengan_IR_Remote_Menggunakan_Arduino_by_Konekthing.jpg)
                     [Image](masihol.jpg)
+             
 ### 3. Bluetooth 
    Bluetooth adalah teknologi komunikasi wireless yang memanfaafkan frekuensi Radio ISM 2,4 GHZ untuk menghubungkan perangkat gengam secara terpisah (hanpone, PDA, computer,
    printer dan laptop ,dengan jangkuan yang relatif pendek atau tanpa kabel.
