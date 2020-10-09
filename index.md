@@ -87,7 +87,19 @@
    
   Contoh pada Bluetooth;
    - Mengirim file dari sebuah perangkat keperangkat lain.
-   - Mengatur perangkat lain seperti speaker/ heandset/ hearphone yang tersambung pada bluetooth. 
+   - Mengatur perangkat lain seperti speaker/ heandset/ hearphone yang tersambung pada bluetooth.
+   
+   [Link](url) and ![Image]()
+   
+### 4.Wifi (wireles findelity)
+   Wifi (wireles findelity) adalah sekumpulan sebuah teknologi yang  memanfaatkan peralatan electronik untuk bertukar data secara nirkabel(menggunakan gelombang radio) melalui
+   sebuah jaringan komputer termasuk koneksi internet berkecepatan tinggi.
+   Frekuensi yang digunakan oleh teknologi wifi berada pada spectrum 2,3 GHZ. Wifi mempunyai kemampuan akses internet hingga 11 Mbps atau lima kali lebih cepat dari akses
+   internet mengunakan 3G.
+   
+ 
+   
+   
 
    
    
