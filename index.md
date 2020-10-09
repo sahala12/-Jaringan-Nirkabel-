@@ -4,9 +4,12 @@
   Sinyal RF(Radio Frekuensi) adalah bagian-bagian yang mampu mendeteksi sinyal gelombang elektromagnetik digunakan oleh sistem komunikasi untuk mengirim informasi lewat
   udara dari satu titik ke titik lainnya yang membanyak diantara antena pemancar pengirim dan penerima.
 
-## 2.Infared
+## 2.Infrared
    Infared atau sensor merah adalah bagian-bagian elektronika yang terbuat dari bahan semikonduktor untuk memancarkan cahaya monokromatikyang tidak koheran ketika diberi
-   tegangan maju, dengan kata lain infra merah merupakan warna dari cahaya tampak dengan gelombang terpanjang, yaitu sekitar 700 nm sampai 1 mm
+   tegangan maju, dengan kata lain infra merah merupakan warna dari cahaya tampak dengan gelombang terpanjang, yaitu sekitar 700 nm sampai 1 mm.
+   Frekuensi inframerah berkisar dari 3 gigahertz sampai 400 terahertz, dan panjang gelombang rentang 1000 mikrometer sampai 760 nanometer.
+   ### jenis jenis infared
+   - Ifare
 ### Markdown
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
